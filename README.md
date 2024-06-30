@@ -2,9 +2,9 @@
 
 ## Game Name: BBW (爆爆王復刻)
 
-## Prepare Enviorment
+## Prepare Enviorment (重要！)
 - install Vscode 
-- install Allegro 5 (for mac users use brew to install)
+- install Allegro 5 (for mac users use brew to install) 
 
 ## Introduce
 - Players set the waterbomb <img width="36" alt="waterbomb2" src="https://user-images.githubusercontent.com/106909192/213278662-2b4860e9-5cef-4a3d-b0eb-0f9909c7758b.png">
@@ -35,6 +35,7 @@
 - brew install [https://mac.install.guide/homebrew/3]
 - 2022_I2P1_Final_project_Group_3: https://github.com/steve50207/I2P1_Final_project_I-wanna-handout-the-final-project
 - Allegro download: [https ://github.com/liballeg/allegro5/releases](https://github.com/liballeg/allegro5/releases)
+- Allegro install(mac): https://github.com/liballeg/allegro_wiki/wiki/Quickstart
 - Allegro install(mac): https://hackmd.io/@kerwintsai/SkRTk6kCS
 - Allegro install(Windows):  https://github.com/yuan7122/I2P1_Final_project/blob/master/tutorial/Allegro_install.pdf
 - Allegro documentation: https://liballeg.org/a5docs/trunk/
