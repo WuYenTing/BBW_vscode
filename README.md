@@ -4,7 +4,8 @@
 
 ## Prepare Enviorment (重要！)
 - install Vscode 
-- install Allegro 5 (for mac users use brew to install) 
+- install Allegro 5 (for mac users use brew to install)
+- download this repository and use makefile to get the executable file 
 
 ## Introduce
 - Players set the waterbomb <img width="36" alt="waterbomb2" src="https://user-images.githubusercontent.com/106909192/213278662-2b4860e9-5cef-4a3d-b0eb-0f9909c7758b.png">
